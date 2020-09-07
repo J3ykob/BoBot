@@ -1,0 +1,25 @@
+{
+  "name": "embot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/J3ykob/EMBot.git"
+  },
+  "author": "J3ykob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/J3ykob/EMBot/issues"
+  },
+  "homepage": "https://github.com/J3ykob/EMBot#readme",
+  "dependencies": {
+    "cloudflare-bypasser": "0.0.3",
+    "cloudscraper": "^4.6.0",
+    "node-html-parser": "^1.2.20",
+    "request": "^2.88.2"
+  }
+}
